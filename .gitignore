@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.exercism/
+README.md
+HELP.md
+HINTS.md
+.docs/
