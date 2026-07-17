@@ -1,4 +1,4 @@
-# Exercism Python Track — Solutions
+# Exercism Python Track — My Solutions
 
 My solutions to exercises from the [Exercism Python track](https://exercism.org/tracks/python).
 

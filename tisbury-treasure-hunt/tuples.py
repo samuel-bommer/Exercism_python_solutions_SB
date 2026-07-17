@@ -11,8 +11,7 @@ def get_coordinate(record):
         str: The extracted map coordinate.
     """
 
-    pass
-
+    return record[1]
 
 def convert_coordinate(coordinate):
     """Split the given coordinate into tuple containing its individual components.
@@ -24,7 +23,7 @@ def convert_coordinate(coordinate):
         tuple: The string coordinate split into its individual components.
     """
 
-    pass
+    return tuple(coordinate)
 
 
 def compare_records(azara_record, rui_record):
@@ -38,8 +37,9 @@ def compare_records(azara_record, rui_record):
         bool: Do the coordinates match?
     """
 
-    pass
-
+    if tuple(azara_record[1]) in rui_record:
+        return True 
+    return False
 
 def create_record(azara_record, rui_record):
     """Combine the two record types (if possible) and create a combined record group.
@@ -52,8 +52,9 @@ def create_record(azara_record, rui_record):
         tuple or str: The combined record (if compatible), or the string "not a match" (if incompatible).
     """
 
-    pass
-
+    if compare_records(azara_record, rui_record):
+        return azara_record + rui_record
+    return str('not a match')
 
 def clean_up(combined_record_group):
     """Clean up a combined record group into a multi-line string of single records.
@@ -69,5 +70,12 @@ def clean_up(combined_record_group):
         (see HINTS.md for an example).
 
     """
-
-    pass
+    
+    cleaned_records = []
+    
+    for record in combined_record_group:
+        record_new = list(record)
+        record_new.pop(1)      # remove quadrant string only, e.g. '2A'
+        cleaned_records.append(tuple(record_new))
+    
+    return '\n'.join(str(record) for record in cleaned_records) + '\n'
