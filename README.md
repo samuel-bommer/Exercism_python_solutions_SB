@@ -10,12 +10,17 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | --- | --- |
 | [Black Jack](./black-jack) | Comparison operators, conditionals |
 | [Card Games](./card-games) | Lists, indexing, slicing |
+| [Cater-Waiter](./cater-waiter) | Sets (`set`, `&`, `<=`, `-`, `set.union`) |
 | [Chaitana's Colossal Coaster](./chaitanas-colossal-coaster) | List methods (`append`, `insert`, `remove`, …) |
 | [Currency Exchange](./currency-exchange) | Numbers (`int`, `float`), arithmetic |
+| [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
+| [Inventory Management](./inventory-management) | Dictionaries, creating and updating entries |
 | [Little Sister's Essay](./little-sisters-essay) | String methods |
 | [Little Sister's Vocab](./little-sisters-vocab) | Strings, concatenation, slicing |
+| [Locomotive Engineer](./locomotive-engineer) | Unpacking (`*args`, `**kwargs`, `*` in assignments) |
 | [Making the Grade](./making-the-grade) | Loops (`for`, `while`), `break`/`continue` |
+| [Mecha-Munch Management](./mecha-munch-management) | Dict methods (`\|=`, `sorted()`, `.items()`) |
 | [Meltdown Mitigation](./meltdown-mitigation) | Conditionals, control flow |
 | [Tisbury Treasure Hunt](./tisbury-treasure-hunt) | Tuples, unpacking |
 
