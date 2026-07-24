@@ -16,13 +16,16 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
 | [Inventory Management](./inventory-management) | Dictionaries, creating and updating entries |
+| [Leap](./leap) | Conditionals, modulo arithmetic |
 | [Little Sister's Essay](./little-sisters-essay) | String methods |
 | [Little Sister's Vocab](./little-sisters-vocab) | Strings, concatenation, slicing |
 | [Locomotive Engineer](./locomotive-engineer) | Unpacking (`*args`, `**kwargs`, `*` in assignments) |
 | [Making the Grade](./making-the-grade) | Loops (`for`, `while`), `break`/`continue` |
 | [Mecha-Munch Management](./mecha-munch-management) | Dict methods (`\|=`, `sorted()`, `.items()`) |
 | [Meltdown Mitigation](./meltdown-mitigation) | Conditionals, control flow |
+| [Plane Tickets](./plane-tickets) | Generators (`yield`, generator functions) |
 | [Tisbury Treasure Hunt](./tisbury-treasure-hunt) | Tuples, unpacking |
+| [Triangle](./triangle) | Functions, conditionals, sets |
 
 ## Repository layout
 
