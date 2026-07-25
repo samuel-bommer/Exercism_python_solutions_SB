@@ -8,13 +8,16 @@ This is a living repository: I add solutions as I progress through the track. Ea
 
 | Exercise | Concepts practised |
 | --- | --- |
+| [Armstrong Numbers](./armstrong-numbers) | Loops, exponentiation, numbers |
 | [Black Jack](./black-jack) | Comparison operators, conditionals |
 | [Card Games](./card-games) | Lists, indexing, slicing |
 | [Cater-Waiter](./cater-waiter) | Sets (`set`, `&`, `<=`, `-`, `set.union`) |
 | [Chaitana's Colossal Coaster](./chaitanas-colossal-coaster) | List methods (`append`, `insert`, `remove`, …) |
+| [Collatz Conjecture](./collatz-conjecture) | While loops, conditionals, modulo arithmetic |
 | [Currency Exchange](./currency-exchange) | Numbers (`int`, `float`), arithmetic |
 | [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
+| [Grains](./grains) | Exponentiation (`2**n`), raising exceptions, integer arithmetic |
 | [Inventory Management](./inventory-management) | Dictionaries, creating and updating entries |
 | [Leap](./leap) | Conditionals, modulo arithmetic |
 | [Little Sister's Essay](./little-sisters-essay) | String methods |
@@ -54,4 +57,4 @@ pytest black-jack/
 
 ## About Exercism
 
-[Exercism](https://exercism.org) is a free, open-source platform for learning programming languages through small, test-driven exercises with community mentoring. The Python track covers the language from core syntax up to more advanced concepts.
+[Exercism](https://exercism.org) is a free, open-source platform for learning programming languages through small, test-driven exercises with community mentoring. The Python track covers the language from core syntax up to more advanced concepts. Thanks to the communit for such an amazing free resource!
