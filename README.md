@@ -1,4 +1,4 @@
-# Exercism Python Track — My Solutions
+# Exercism Python Track: My Solutions
 
 My solutions to exercises from the [Exercism Python track](https://exercism.org/tracks/python).
 
@@ -10,11 +10,13 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | --- | --- |
 | [Armstrong Numbers](./armstrong-numbers) | Loops, exponentiation, numbers |
 | [Black Jack](./black-jack) | Comparison operators, conditionals |
+| [Bob](./bob) | Strings, string methods (`strip`, `upper`, `isalpha`), conditionals |
 | [Card Games](./card-games) | Lists, indexing, slicing |
 | [Cater-Waiter](./cater-waiter) | Sets (`set`, `&`, `<=`, `-`, `set.union`) |
 | [Chaitana's Colossal Coaster](./chaitanas-colossal-coaster) | List methods (`append`, `insert`, `remove`, …) |
 | [Collatz Conjecture](./collatz-conjecture) | While loops, conditionals, modulo arithmetic |
 | [Currency Exchange](./currency-exchange) | Numbers (`int`, `float`), arithmetic |
+| [Darts](./darts) | Arithmetic (distance formula), exponentiation, conditionals, nested functions |
 | [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
 | [Grains](./grains) | Exponentiation (`2**n`), raising exceptions, integer arithmetic |
@@ -26,7 +28,11 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Making the Grade](./making-the-grade) | Loops (`for`, `while`), `break`/`continue` |
 | [Mecha-Munch Management](./mecha-munch-management) | Dict methods (`\|=`, `sorted()`, `.items()`) |
 | [Meltdown Mitigation](./meltdown-mitigation) | Conditionals, control flow |
+| [Pangram](./pangram) | Sets, string methods (`isalpha`, `lower`), loops |
+| [Perfect Numbers](./perfect-numbers) | Loops, modulo arithmetic, `sum()`, raising exceptions |
 | [Plane Tickets](./plane-tickets) | Generators (`yield`, generator functions) |
+| [Raindrops](./raindrops) | Modulo arithmetic, string concatenation, conditionals |
+| [Reverse String](./reverse-string) | String slicing (`[::-1]`), loops |
 | [Tisbury Treasure Hunt](./tisbury-treasure-hunt) | Tuples, unpacking |
 | [Triangle](./triangle) | Functions, conditionals, sets |
 
