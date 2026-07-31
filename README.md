@@ -21,6 +21,8 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
 | [Grains](./grains) | Exponentiation (`2**n`), raising exceptions, integer arithmetic |
 | [Inventory Management](./inventory-management) | Dictionaries, creating and updating entries |
+| [ISBN Verifier](./isbn-verifier) | String manipulation (`replace`, `isalpha`), loops, modulo arithmetic |
+| [Isogram](./isogram) | Sets, string methods (`isalpha`, `lower`), loops |
 | [Leap](./leap) | Conditionals, modulo arithmetic |
 | [Little Sister's Essay](./little-sisters-essay) | String methods |
 | [Little Sister's Vocab](./little-sisters-vocab) | Strings, concatenation, slicing |
@@ -33,6 +35,8 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Plane Tickets](./plane-tickets) | Generators (`yield`, generator functions) |
 | [Raindrops](./raindrops) | Modulo arithmetic, string concatenation, conditionals |
 | [Reverse String](./reverse-string) | String slicing (`[::-1]`), loops |
+| [RNA Transcription](./rna-transcription) | Dictionaries, string methods (`join`), loops |
+| [Rotational Cipher](./rotational-cipher) | String manipulation, ASCII (`ord`, `chr`), modulo arithmetic |
 | [Tisbury Treasure Hunt](./tisbury-treasure-hunt) | Tuples, unpacking |
 | [Triangle](./triangle) | Functions, conditionals, sets |
 
