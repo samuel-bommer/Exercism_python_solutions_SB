@@ -19,13 +19,17 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Currency Exchange](./currency-exchange) | Numbers (`int`, `float`), arithmetic |
 | [Darts](./darts) | Arithmetic (distance formula), exponentiation, conditionals, nested functions |
 | [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
+| [Flatten Array](./flatten-array) | Iterative flattening (while loop), `isinstance`, `None` filtering, list manipulation |
 | [Game of Life](./game-of-life) | 2D grids (nested lists), nested loops, neighbour counting, Conway's rules |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
 | [Grains](./grains) | Exponentiation (`2**n`), raising exceptions, integer arithmetic |
+| [Hamming](./hamming) | Strings, loops, raising exceptions, DNA comparison |
 | [Inventory Management](./inventory-management) | Dictionaries, creating and updating entries |
 | [ISBN Verifier](./isbn-verifier) | String manipulation (`replace`, `isalpha`), loops, modulo arithmetic |
 | [Isogram](./isogram) | Sets, string methods (`isalpha`, `lower`), loops |
 | [Leap](./leap) | Conditionals, modulo arithmetic |
+| [Line Up](./line-up) | f-strings, ordinal suffixes, string slicing, conditionals |
+| [List Ops](./list-ops) | Higher-order functions (`map`, `filter`, `foldl`, `foldr`), list methods |
 | [Little Sister's Essay](./little-sisters-essay) | String methods |
 | [Little Sister's Vocab](./little-sisters-vocab) | Strings, concatenation, slicing |
 | [Locomotive Engineer](./locomotive-engineer) | Unpacking (`*args`, `**kwargs`, `*` in assignments) |
