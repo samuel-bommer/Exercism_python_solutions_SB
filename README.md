@@ -78,3 +78,5 @@ pytest black-jack/
 ## About Exercism
 
 [Exercism](https://exercism.org) is a free, open-source platform for learning programming languages through small, test-driven exercises with community mentoring. The Python track covers the language from core syntax up to more advanced concepts. Thanks to the communit for such an amazing free resource!
+
+*Disclaimer: this code was handwritten as a learning project. No AI was used.*
