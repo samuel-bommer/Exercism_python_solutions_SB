@@ -18,7 +18,9 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Collatz Conjecture](./collatz-conjecture) | While loops, conditionals, modulo arithmetic |
 | [Currency Exchange](./currency-exchange) | Numbers (`int`, `float`), arithmetic |
 | [Darts](./darts) | Arithmetic (distance formula), exponentiation, conditionals, nested functions |
+| [Diamond](./diamond) | String manipulation (`string.ascii_uppercase`), list building, index arithmetic, symmetry/mirroring |
 | [Ellen's Alien Game](./ellens-alien-game) | Classes, class attributes, instance methods |
+| [ETL](./etl) | Dictionary transformation, nested loops, `.lower()`, data restructuring |
 | [Flatten Array](./flatten-array) | Iterative flattening (while loop), `isinstance`, `None` filtering, list manipulation |
 | [Game of Life](./game-of-life) | 2D grids (nested lists), nested loops, neighbour counting, Conway's rules |
 | [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game) | Booleans, logical operators |
@@ -34,11 +36,13 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [Little Sister's Vocab](./little-sisters-vocab) | Strings, concatenation, slicing |
 | [Locomotive Engineer](./locomotive-engineer) | Unpacking (`*args`, `**kwargs`, `*` in assignments) |
 | [Making the Grade](./making-the-grade) | Loops (`for`, `while`), `break`/`continue` |
+| [Matching Brackets](./matching-brackets) | Stack (list as stack), dictionaries, string filtering, bracket validation |
 | [Mecha-Munch Management](./mecha-munch-management) | Dict methods (`\|=`, `sorted()`, `.items()`) |
 | [Meltdown Mitigation](./meltdown-mitigation) | Conditionals, control flow |
 | [Pangram](./pangram) | Sets, string methods (`isalpha`, `lower`), loops |
 | [Perfect Numbers](./perfect-numbers) | Loops, modulo arithmetic, `sum()`, raising exceptions |
 | [Plane Tickets](./plane-tickets) | Generators (`yield`, generator functions) |
+| [Poker](./poker) | Complex hand evaluation, functions as dict values, sorting, set operations, tuple comparison |
 | [Raindrops](./raindrops) | Modulo arithmetic, string concatenation, conditionals |
 | [Resistor Color](./resistor-color) | Dictionaries, lookup by key |
 | [Resistor Color Duo](./resistor-color-duo) | Dictionaries, string concatenation, `int`/`str` conversion |
@@ -46,7 +50,11 @@ This is a living repository: I add solutions as I progress through the track. Ea
 | [RNA Transcription](./rna-transcription) | Dictionaries, string methods (`join`), loops |
 | [Rotational Cipher](./rotational-cipher) | String manipulation, ASCII (`ord`, `chr`), modulo arithmetic |
 | [Secret Handshake](./secret-handshake) | Binary strings, `enumerate`, `reversed`, list methods, conditionals |
+| [Simple Linked List](./simple-linked-list) | Classes, linked list (nodes, head pointer), `__iter__`, custom exceptions |
+| [Space Age](./space-age) | Classes, arithmetic conversions, orbital period constants |
 | [Square Root](./square-root) | Bisection method, floating-point arithmetic, `round` |
+| [Sublist](./sublist) | List slicing, enumerated constants, nested loop comparison |
+| [Sum of Multiples](./sum-of-multiples) | While loops, sets (deduplication), `sum()` |
 | [Tisbury Treasure Hunt](./tisbury-treasure-hunt) | Tuples, unpacking |
 | [Triangle](./triangle) | Functions, conditionals, sets |
 
