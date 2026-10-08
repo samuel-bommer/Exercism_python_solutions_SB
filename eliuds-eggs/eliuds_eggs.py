@@ -14,6 +14,6 @@ def egg_count(display_value: int) -> int:
         
         display_value = display_value // 2
     
-    egg_count = remainder_binary.count(1)
-    return egg_count
+    number_of_eggs = remainder_binary.count(1)
+    return number_of_eggs
         
